@@ -20,8 +20,6 @@
 
 @property (nonatomic, assign) CGPoint scrollOffset;
 
-@property (nonatomic, getter = isImageMode) BOOL imageMode; // Default NO
-
 @end
 
 @implementation DZNSegmentedControl
